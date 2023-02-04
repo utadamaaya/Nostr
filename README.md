@@ -1,0 +1,3 @@
+# Nostr
+some tests
+nothing
